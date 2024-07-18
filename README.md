@@ -23,7 +23,7 @@ Node.js is required to run this project.
 ## Usage
 
 Use Node.js to run the e-commerce back end.
-Video Walkthrough: 
+Video Walkthrough: https://www.youtube.com/watch?v=UfGfGwN0I74
 
 ## Credits
 
